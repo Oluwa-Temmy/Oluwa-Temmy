@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwa-Temmy
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning computer science and how to make games in pygame
+- 🌱 I’m currently learning computer science and how to get into game development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through github
 
