@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m @Oluwa-Temmy</h1>
-<h3>An aspiring tech professional</h3>
+<h3 align="center">A passionate Software Engineer and Systems Administrator</h3>
+
 - 👀 I’m interested in software development and system administrations
 - 🔭 I’m currently working on **letjungkook.com**
 <h3 align="left">Languages and Tools:</h3>
