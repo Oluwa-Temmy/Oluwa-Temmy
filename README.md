@@ -8,7 +8,7 @@
 
 <p>I'm a web dev who loves both front-end and back-end work. I enjoy building websites with Python (Flask/Django), setting up servers, and managing databases. Ubuntu is my go-to for hosting, and I like making sure everything runs smoothly.
 
-Currently, I’m finishing up my Red Hat RHCSA certification. I’ve also dabbled with React Native and Expo Go, though I’m not ready to share anything yet regarding that topic! I’m always learning and experimenting, so feel free to check out my projects!</p>
+Currently, I’m finishing up my Red Hat RHCSA certification. I participate in Hackathons and I’m always learning and experimenting, so feel free to check out my projects!</p>
 
 ###
 
