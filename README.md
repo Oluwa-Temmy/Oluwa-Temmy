@@ -6,7 +6,7 @@
 
 ###
 
-<p>I'm a web dev who loves both front-end and back-end work. I enjoy building websites with Python (Flask/Django), setting up servers, and managing databases. Ubuntu is my go-to for hosting, and I like making sure everything runs smoothly.
+<p>I'm a fullstack developer. I enjoy building websites with Python (Flask/Django), setting up servers, and managing websites.
 
 Currently, I’m finishing up my Red Hat RHCSA certification. I participate in Hackathons and I’m always learning and experimenting, so feel free to check out my projects!</p>
 
