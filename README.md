@@ -26,6 +26,10 @@ Currently working towards my **Red Hat RHCSA** certification.
 | Wine Review Platform | C#, .NET, React, Azure | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
 | Transcodeinential | Python, Django, GCP, Gemini API | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
 | letjungkook.com | Python, Django, Docker, Nginx | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
+| Forage JPMorgan SWE Tasks | Python | [→ View Repo](https://github.com/Oluwa-Temmy/forage-jpmc-swe-task-1) |
+| Forage JPMorgan SWE Tasks | Python, Typescript, HTML, CSS, JS | [→ View Repo](https://github.com/Oluwa-Temmy/forage-jpmc-swe-task-2) |
+| Forage JPMorgan SWE Tasks | Python, Typescript, HTML, CSS, JS | [→ View Repo](https://github.com/Oluwa-Temmy/forage-jpmc-swe-task-3) |
+
 
 ---
 
