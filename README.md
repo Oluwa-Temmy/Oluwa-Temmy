@@ -1,81 +1,69 @@
-<h2 align="center">Hi 👋! I am Oluwa Temmy</h2>
+<div align="center">
 
-###
+# Osayi Odiase
 
-<h4 align="center">A passionate system administrator & software engineer</h4>
+Software Engineer · Chicago, IL
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osayi-o)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Osayi-ANL)
 
-<p>I'm a fullstack developer. I enjoy building websites with Python (Flask/Django), setting up servers, and managing websites.
+</div>
 
-Currently, I’m finishing up my Red Hat RHCSA certification. I participate in Hackathons and I’m always learning and experimenting, so feel free to check out my projects!</p>
+---
+Research engineer at **Argonne National Laboratory** and CS student at **Dominican University** (May 2026).
+I build full-stack apps, backend APIs, and ship to production.
+Currently working towards my **Red Hat RHCSA** certification.
 
-###
+<br clear="both"/>
+
+---
+
+## 💼 Projects
+
+| Project | Stack | Link |
+|---|---|---|
+| Wine Review Platform | C#, .NET, React, Azure | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
+| Transcodeinential | Python, Django, GCP, Gemini API | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
+| letjungkook.com | Python, Django, Docker, Nginx | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
+
+---
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/7jVZUSPt6-kAAAAd/homer-simpson-homer-uchiha.gif"  />
+## 📊 Stats
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oluwa-Temmy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Oluwa-Temmy&layout=compact&langs_count=6&theme=dracula&hide_border=true)
+
 </div>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Oluwa-Temmy/Oluwa-Temmy/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Oluwa-Temmy/count.svg?"  />
-</div>
 
-###
+![Profile Views](https://profile-counter.glitch.me/Oluwa-Temmy/count.svg)
+
+</div>
