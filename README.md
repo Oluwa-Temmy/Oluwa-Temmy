@@ -22,7 +22,7 @@ Currently working towards my **Red Hat RHCSA** certification.
 
 | Project | Stack | Link |
 |---|---|---|
-|AWS Fullfillment | C++, Python | [→ View Repo](https://github.com/Oluwa-Temmy/434-fullfillment-center) |
+| Amazon Fullfillment Conveyer Processor Project | C++, Python | [→ View Repo](https://github.com/Oluwa-Temmy/434-fullfillment-center) |
 | Wine Review Platform | C#, .NET, React, Azure | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
 | Transcodeinential | Python, Django, GCP, Gemini API | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
 | letjungkook.com | Python, Django, Docker, Nginx | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
