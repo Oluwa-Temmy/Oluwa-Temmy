@@ -26,7 +26,7 @@ Currently working towards my **Red Hat RHCSA** certification.
 | Rime Co - Ecommerce Website | Python, Vite, Django, Stripe | [→ View Repo](https://github.com/Oluwa-Temmy/rime_co) | 08/2026 - 09/2026 |
 | Amazon Fullfillment Conveyer Processor Project | C++, Python | [→ View Repo](https://github.com/Oluwa-Temmy/434-fullfillment-center) | 02/2026 - 05/2026
 | Wine Review Platform | C#, .NET, React, Azure | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) | 08/2025 - 05/2026
-| Transcodeinential | Python, Django, GCP, Gemini API | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
+| Transcodeinential | Python, Django, GCP, Gemini API | [→ View Repo](https://devpost.com/submit-to/23772-ai-hackfest/manage/submissions?_gl=1*1j3c3fx*_gcl_au*MTcwMTU0MzQzNS4xNzkwNjc5NDg4*_ga*MzMwNzA1OTEyLjE3NjE3NDgwODM.*_ga_0YHJK3Y10M*czE3OTA2Nzk0ODgkbzE5JGcxJHQxNzkwNjc5NTA4JGo0MCRsMCRoMA..) | 04/11/2026 - 04/13/2026
 | letjungkook.com | Python, Django, Docker, Nginx | [→ View Repo](https://github.com/Oluwa-Temmy/REPLACE_WITH_REPO) |
 | Forage JPMorgan SWE Tasks | Python | [→ View Repo](https://github.com/Oluwa-Temmy/forage-jpmc-swe-task-1) |
 | Forage JPMorgan SWE Tasks | Python, Typescript, HTML, CSS, JS | [→ View Repo](https://github.com/Oluwa-Temmy/forage-jpmc-swe-task-2) |
