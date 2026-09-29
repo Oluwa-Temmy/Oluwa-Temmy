@@ -10,9 +10,7 @@ Software Engineer · Chicago, IL
 </div>
 
 ---
-Research engineer at **Argonne National Laboratory** and CS student at **Dominican University** (May 2026).
-I build full-stack apps, backend APIs, and ship to production.
-Currently working towards my **Red Hat RHCSA** certification.
+CS grad '26 · Software Engineer · AI enthusiast
 
 <br clear="both"/>
 
